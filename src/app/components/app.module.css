@@ -1,0 +1,10 @@
+.gallry_container{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    background-color: aliceblue;
+    border: 1px black solid;
+    border-radius: 25px;
+}
